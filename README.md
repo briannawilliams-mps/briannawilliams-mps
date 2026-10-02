@@ -17,3 +17,5 @@ Client Relations, Copywriting, Social Media Strategy, CRM Management, Proposal W
 Case Study
 Covara Beauty
 Covara Beauty needed to reach potential consumers beyond its existing audience. The campaign needed to feel useful, affordable, and relatable—not like a traditional product advertisement.
+
+![Case Study](IMG_7053.PNG)
