@@ -5,7 +5,7 @@ import { caseStudy } from '@/lib/portfolio'
 import { SectionHeading } from './section-heading'
 
 export function CaseStudy() {
-  return (
+  return ( 
     <section
       id="case-study"
       aria-labelledby="case-study-title"
