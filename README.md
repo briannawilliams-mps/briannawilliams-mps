@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**briannawilliams-mps/briannawilliams-mps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**briannawilliams-mps/briannawilliams-mps** is a ✨ _special_ ✨ repository because its `README.md` <img src="IMG_7011.PNG" width="100%"> appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
