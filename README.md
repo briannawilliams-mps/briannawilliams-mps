@@ -1,8 +1,7 @@
 ## PORTFOLIO
 ![HEADER](IMG_7011.PNG)<!--
 mport Image from 'next/image'
-import { caseStudy } from '@/'
-import { SectionHeading } from './[section](https://briannawilliams-rho.vercel.app/)-heading'
+import { caseStudy } from '@/'[(https://briannawilliams-rho.vercel.app/)] import { SectionHeading } from (https://briannawilliams-rho.vercel.app/)-heading'
 
 export function CaseStudy() {
   return ( 
