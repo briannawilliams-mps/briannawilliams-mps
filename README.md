@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+![HEADER](IMG_7011.PNG)<!--
 **briannawilliams-mps/briannawilliams-mps** is a ✨ _special_ ✨ repository because its `README.md`![HEADER](IMG_7011.PNG) appears on your GitHub profile.
 
 Here are some ideas to get you started:
