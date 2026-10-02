@@ -19,3 +19,8 @@ Covara Beauty
 Covara Beauty needed to reach potential consumers beyond its existing audience. The campaign needed to feel useful, affordable, and relatable—not like a traditional product advertisement.
 
 ![Case Study](IMG_7053.PNG)
+The idea was to meet people where they already discover beauty: TikTok—and make the content feel accessible, relatable, and genuinely useful.
+
+Hospitality Sales
+Research and qualify prospective corporate, group, and event clients to build a consistent sales pipeline.
+Maintain CRM accuracy and reporting so leadership has a clear view of pipeline health.
